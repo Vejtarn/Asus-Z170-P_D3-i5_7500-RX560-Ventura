@@ -11,10 +11,10 @@
         2 x Team Group inc. 4 GB 1333 Mhz
 - Realtek RTL8168GU/8111GU PCI Express Gigabit Ethernet
 - Bluetooth ASUS USB-BT400 USB 2.0
-- Z170 Chipset SATA Controller [ACHI Mode]:
-        Hitachi HDS721050CLA660 499,9 Gb 7200Rpm
+- Z170 Chipset SATA Controller [ACHI Mode]:\
+        Hitachi HDS721050CLA660 499,9 Gb 7200Rpm\
         Seagate Barracuda ST3500418AS 554,7 Gb 7200Rpm
-- Monitors:
-        BenQ GL2460 1920x1080 (1800p FHD @ 60.00Hz)
+- Monitors:\
+        BenQ GL2460 1920x1080 (1800p FHD @ 60.00Hz)\
         LG L1942 1280x1024 (SVGA @ 60.00Hz)
 
